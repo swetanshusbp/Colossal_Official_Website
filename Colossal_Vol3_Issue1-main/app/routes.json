@@ -1,0 +1,163 @@
+{
+    "routes":[
+        {
+            "page":"Editors's voice",
+            "route":"/articles/editors_voice",
+            "path":["/editor.jpg"]
+        },
+        {
+            "page":"HOD Article",
+            "route":"/articles/hod_article",
+            "path":["/hod_1.jpg","/hod_2.jpg"]
+        },
+        {
+            "page":"Team",
+            "route":"/team",
+            "path":["/team.jpg"]
+        },
+        {
+            "page":"Top Placements",
+            "route":"/top_placements",
+            "path":["/placements.jpg"]
+        },
+        {
+            "page":"Innovations in HPC",
+            "route":"/articles/innovations_in_hpc_facultyarticle",
+            "path":["/fa_hpc_1.jpg","/fa_hpc_2.jpg"]
+        },
+
+        {
+            "page":"Events",
+            "route":"/events",
+            "path":["/events_1.jpg","/events_2.jpg"]
+        },
+
+        {
+            "page":"Parallel Programming",
+            "route":"/articles/parallel_programming_facultyarticle",
+            "path":["/fa_pp_1.jpg","/fa_pp_2.jpg"]
+        },
+        
+        {
+            "page":"Student Achievement",
+            "route":"/student_achievement",
+            "path":["/studentachievement.jpg"]
+        },
+
+        {
+            "page":"Alumni Day",
+            "route":"/alumni",
+            "path":["/alumni.jpg"]
+        },
+
+        {
+            "page":"Merry Christmas",
+            "route":"/christmas",
+            "path":["/christmas.jpg"]
+        },
+
+        {
+            "page":"Happy Diwali",
+            "route":"/diwali",
+            "path":["/diwali.jpg"]
+        },
+
+        {
+            "page":"Happy Pongal",
+            "route":"/pongal",
+            "path":["/pongal.jpg"]
+        },
+
+        {
+            "page":"Republic Day",
+            "route":"/republic_day",
+            "path":["/republic_day.jpg"]
+        },
+
+        {
+            "page":"Outreach",
+            "route":"/outreach",
+            "path":["/outreach.jpg"]
+        },
+
+        {
+            "page":"Fun Page",
+            "route":"/fun_page",
+            "path":["/fun_page.jpg"]
+        },
+
+        {
+            "page":"Alumni Talk",
+            "route":"/alumni_talk",
+            "path":["/alumni_talk.jpg"]
+        },
+
+        {
+            "page":"Faculty Upskilling",
+            "route":"/faculty_upskilling",
+            "path":["/faculty_upskilling.jpg"]
+        },
+
+        {
+            "page":"Publications",
+            "route":"/publications",
+            "path":["/pubs1.jpg","/pubs2.jpg","/pubs3.jpg","/pubs4.jpg",
+            "/pubs5.jpg","/pubs6.jpg", "/pubs7.jpg", "/pubs8.jpg",
+            "/pubs9.jpg"]
+        },
+        
+        {
+            "page":"High Performance Computing Clusters",
+            "route":"/articles/hpcc_studentarticle",
+            "path":["/sa_hp_1.jpg","/sa_hp_2.jpg"]
+        },
+
+        {
+            "page":"Case Study of CUDA Applications",
+            "route":"/articles/cuda_studentarticle",
+            "path":["/sa_cuda_1.jpg","/sa_cuda_2.jpg"]
+        },
+
+        {
+            "page":"Quantum Computing and its intersection with HPC",
+            "route":"/articles/quantum_computing_studentarticle",
+            "path":["/sa_quan_1.jpg","/sa_quan_2.jpg"]
+        },
+
+        {
+            "page":"Exoscale Computing",
+            "route":"/articles/exoscale_computing_studentarticle",
+            "path":["/sa_exo_1.jpg","/sa_exo_2.jpg"]
+        },
+
+        {
+            "page":"Energy Efficient HPC Systems",
+            "route":"/articles/energy_efficient_hpc_systems_studentarticle",
+            "path":["/sa_ee_1.jpg","/sa_ee_2.jpg"]
+        },
+
+        {
+            "page":"Funded Projects",
+            "route":"/funded_projects",
+            "path":["/funded_projects.jpg"]
+        },
+
+        {
+            "page":"Patents and Grants",
+            "route":"/patents_and_grants",
+            "path":["/pg_1.jpg","/pg_2.jpg"]
+        },
+        
+        {
+            "page":"Memorandum of Understanding",
+            "route":"/mou",
+            "path":["/mou.jpg"]
+        },
+      
+        {
+            "page":"Faculty Achievements",
+            "route":"/faculty_achievements",
+            "path":["/fa.jpg"]
+        }
+    ]
+}
